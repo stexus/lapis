@@ -18,12 +18,31 @@ For all these reasons, [ruri](link-to-ruris-github) and myself decided to work o
 
 To use the card, first download the example deck. From there, you need to change your fields settings in Yomitan. Here is a picture showing how the fields should be set up:
 
-<div align="center">
-  <img src="https://github.com/donkuri/lapis/raw/main/assets/fields.PNG" alt="Lapis fields">
-  <p><em>Lapis fields</em></p>
-</div>
 
-**Your fields will not look exactly like this for two reasons**:
+| Field              | Value                                             |
+| ------------------ | ------------------------------------------------- |
+| Expression         | `{expression}`                                    |
+| ExpressionFurigana | `{furigana-plain}`                                |
+| ExpressionReading  | `{reading}`                                       |
+| ExpressionAudio    | `{audio}`                                         |
+| SelectionText      |  `{popup-selection-text}`                         |
+| MainDefinition     | `{single-glossary-jmdict/jitendex}`               |
+| Sentence           | `{cloze-prefix}<b>{cloze-body}</b>{cloze-suffix}` |
+| SentenceFurigana   |                                                   |
+| SentenceAudio      |                                                   |
+| Picture            |                                                   |
+| Glossary           | `{glossary}`                                      |
+| Hint               |                                                   |
+| IsHintCard         |                                                   |
+| IsClickCard        |                                                   |
+| IsSentenceCard     |                                                   |
+| PitchPosition      | `{pitch-accent-positions}`                        |
+| Frequency          | `{frequencies}`                                   |
+| FreqSort           | `{frequency-harmonic-rank}                        |
+| MiscInfo           |                                                   |
+| ExtraField         |                                                   |
 
-1. I use click cards and as such, there is an "x" in that field. **If you do not put anything in any of the "is...Card" field, the card will be a standard vocab card.** Choose whichever kind of card you want to use, maybe experiment a bit. Obviously, only fill one of these fields.
-2. In `MainDefinition`, you will probably have to choose something else. For instance, if you use [Jitendex](https://jitendex.org/), you should select something like `{single-glossary-jitendex-something}`, where that something is probably a date depending on when you got Jitendex. What it does is select that dictionary to be used as the primary dictionary, and the rest of your dictionaries go into the glossaries (see the gif).
+**Notes:**
+
+1. There `is...Card` fields let you select the kind of card you want to use. Without anything, you get plain old vocab cards. Hint cards let you have a hint in front, click cards let you click on the word in the front of the card to get the sentence (what I use personally), and sentence cards are cards where the sentence is directly in the front of the card.
+2. In `MainDefinition`, you will probably have to choose something. For instance, if you use [Jitendex](https://jitendex.org/), you should select something like `{single-glossary-jitendex-something}`, where that something is probably a date depending on when you got Jitendex. If you use [JMdict](https://github.com/yomidevs/jmdict-yomitan/releases), it'll be `{single-glossary-jmdict-something}`, as above. What it does is select that dictionary to be used as the primary dictionary, and the rest of your dictionaries go into the glossaries (see the gif).
