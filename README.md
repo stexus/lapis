@@ -16,4 +16,14 @@ For all these reasons, [ruri](link-to-ruris-github) and myself decided to work o
 
 ## How to use the card
 
-To use the card, first download the example deck. From there, you need to change your fields settings in Yomitan.
+To use the card, first download the example deck. From there, you need to change your fields settings in Yomitan. Here is a picture showing how the fields should be set up:
+
+<div align="center">
+  <img src="https://github.com/donkuri/lapis/raw/main/assets/Lapis.gif" alt="Lapis fields">
+  <p><em>Lapis fields</em></p>
+</div>
+
+**Your fields will not look exactly like this for two reasons**:
+
+1. I use click cards and as such, there is an "x" in that field. **If you do not put anything in any of the "is...Card" field, the card will be a standard vocab card.** Choose whichever kind of card you want to use, maybe experiment a bit. Obviously, only fill one of these fields.
+2. In `MainDefinition`, you will probably have to choose something else. For instance, if you use [Jitendex](https://jitendex.org/), you should select something like `{single-glossary-jitendex-something}`, where that something is probably a date depending on when you got Jitendex. What it does is select that dictionary to be used as the primary dictionary, and the rest of your dictionaries go into the glossaries (see the gif).
