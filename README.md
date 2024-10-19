@@ -14,6 +14,10 @@ It was made to look like aquafina's, later [arbyste's jp-mining-note](https://ar
 
 For all these reasons, [ruri](link-to-ruris-github) and myself decided to work on a new notetype that would emulate many features from both JPMN and another fantastic notetype, [rudnam's JP-study](https://github.com/rudnam/JP-study). Most of the technical details were left to him (thank you!), while I helped design the card, suggest changes and lead the project. **We are always looking for contributors!**
 
+## Key features
+
+This card **does not use custom handlebars** at all. You can select multiple kinds of cards via the `Is...Card` selectors, simply put something (I use 'x') in the field of your choice to get that type of card. If you already chose one but would like to change, you can use [Batch Editing](https://ankiweb.net/shared/info/291119185) to change this.
+
 ## How to use the card
 
 To use the card, first download the example deck. From there, you need to change your fields settings in Yomitan. Here is a picture showing how the fields should be set up:
