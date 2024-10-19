@@ -7,4 +7,6 @@ Lapis is a modern [Anki](https://apps.ankiweb.net/) notetype designed with compa
 
 For all these reasons, [ruri](link-to-ruris-github) and myself decided to work on a new notetype that would emulate many features from both JPMN and another fantastic notetype, [rudnam's JP-study](https://github.com/rudnam/JP-study). Most of the technical details were left to him (thank you!), while I helped design the card, suggest changes and lead the project. **We are always looking for contributors!**
 
-[![Click cards with Lapis](/lapis/data/Lapis.png)](/lapis/data/lapis.mp4)
+[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
+
+[![Click cards with Lapis](https://raw.githubusercontent.com/donkuri/lapis/data/Lapis.png)](https://raw.githubusercontent.com/donkuri/lapis/data/lapis.mp4)
