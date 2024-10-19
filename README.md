@@ -19,7 +19,7 @@ For all these reasons, [ruri](link-to-ruris-github) and myself decided to work o
 To use the card, first download the example deck. From there, you need to change your fields settings in Yomitan. Here is a picture showing how the fields should be set up:
 
 <div align="center">
-  <img src="https://github.com/donkuri/lapis/raw/main/assets/Lapis.gif" alt="Lapis fields">
+  <img src="https://github.com/donkuri/lapis/raw/main/assets/fields.png" alt="Lapis fields">
   <p><em>Lapis fields</em></p>
 </div>
 
