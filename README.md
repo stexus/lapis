@@ -30,7 +30,7 @@ To use the card, first download the example deck. From there, you need to change
 | ExpressionReading  | `{reading}`                                       |
 | ExpressionAudio    | `{audio}`                                         |
 | SelectionText      | `{popup-selection-text}`                          |
-| MainDefinition     | `{single-glossary-jmdict}/{single-glossary-jitendex}`|
+| MainDefinition     | Something like `{single-glossary-jmdict/jitendex}`|
 | Sentence           | `{cloze-prefix}<b>{cloze-body}</b>{cloze-suffix}` |
 | SentenceFurigana   |                                                   |
 | SentenceAudio      |                                                   |
