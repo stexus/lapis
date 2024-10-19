@@ -25,7 +25,7 @@ To use the card, first download the example deck. From there, you need to change
 | ExpressionFurigana | `{furigana-plain}`                                |
 | ExpressionReading  | `{reading}`                                       |
 | ExpressionAudio    | `{audio}`                                         |
-| SelectionText      |  `{popup-selection-text}`                         |
+| SelectionText      | `{popup-selection-text}`                          |
 | MainDefinition     | `{single-glossary-jmdict/jitendex}`               |
 | Sentence           | `{cloze-prefix}<b>{cloze-body}</b>{cloze-suffix}` |
 | SentenceFurigana   |                                                   |
@@ -38,7 +38,7 @@ To use the card, first download the example deck. From there, you need to change
 | IsSentenceCard     |                                                   |
 | PitchPosition      | `{pitch-accent-positions}`                        |
 | Frequency          | `{frequencies}`                                   |
-| FreqSort           | `{frequency-harmonic-rank}                        |
+| FreqSort           | `{frequency-harmonic-rank}`                       |
 | MiscInfo           |                                                   |
 | ExtraField         |                                                   |
 
