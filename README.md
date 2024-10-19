@@ -6,7 +6,7 @@ Lapis is a modern [Anki](https://apps.ankiweb.net/) notetype designed with compa
   <p><em>Click cards with Lapis</em></p>
 </div>
 
-It was made to look like [arbyste's JPMN](https://arbyste.github.io/jp-mining-note-prerelease/) but fix three main issues we found with the note:
+It was made to look like aquafina's, later [arbyste's jp-mining-note](https://arbyste.github.io/jp-mining-note-prerelease/) but fix three main issues we found with the note:
 
 1. The note uses custom handlebars. Some of these are no longer necessary because they were directly implemented in Yomitan.
 2. Due to the heavy amount of JavaScript on the card, it is laggy for many people on mobile devices.
