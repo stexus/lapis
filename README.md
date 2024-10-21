@@ -14,7 +14,6 @@ An advanced yet lightweight [Anki](https://apps.ankiweb.net/) notetype, thoughtf
 - [How to use Lapis](#how-to-use-lapis)
 - [FAQ](#faq)
 - [Credits](#credits)
-- [Additional Thanks](#additional-thanks)
 
 ## Why was Lapis created?
 
