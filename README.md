@@ -183,8 +183,8 @@ I would also like to dedicate this project to Austin, I hope you are well my fri
 
 I’d like to express my heartfelt thanks to everyone who made this notetype possible. First, a huge thank you to [kuri](https://github.com/donkuri/) for agreeing to collaborate with me on this project. I’ve learned so much thanks to you, and the notetype has improved far more than it ever could have without your help—thank you, truly, from the bottom of my heart.
 
-Next, I’d like to thank [Rudnam](https://github.com/rudnam/), whose code laid the foundation for this project. Your clear, functional code made everything so much easier, and your entire logic code (with some modifications) is showcased in Lapis!
+Next, I’d like to thank [rudnam](https://github.com/rudnam/), whose code laid the foundation for this project. Your clear, functional code made everything so much easier, and your entire logic code (with some modifications) is showcased in Lapis!
 
-Finally, a big thank you to [Aquafina (Austin S.)](https://github.com/Aquafina-water-bottle) and [Arbyste](https://github.com/arbyste) for creating and maintaining JPMN, which inspired the UI for Lapis. Your work laid the groundwork for what this project has become.
+Finally, a big thank you to [Aquafina (Austin S.)](https://github.com/Aquafina-water-bottle) and [arbyste](https://github.com/arbyste) for creating and maintaining JPMN, which inspired the UI for Lapis. Your work laid the groundwork for what this project has become.
 
 Last but not least, there’s me, Ruri! I wrote the code (and spent countless hours troubleshooting when things didn’t work the way I expected). I’ve done my best to make the code clear and easy to understand for anyone who wants to contribute—so a big thanks in advance to those who do!
