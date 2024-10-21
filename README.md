@@ -169,14 +169,14 @@ This project could never have happened without the following people:
 
 [kuuube](https://github.com/Kuuuube) - helped us figure out a bug with JMdict, fruitful conversations
 
-## Additional thanks
+### Additional thanks
 
-### kuri
+#### kuri
 
 I would like to thank everyone that has helped us here. Some have their names above because they have been major contributors, others simply encouraged us and told us what they would like to see in a new notetype. You know who you are!
 I would also like to dedicate this project to Austin, I hope you are well my friend, thank you for your help, without you my work in the Japanese learning community would have never been a reality.
 
-### Ruri
+#### Ruri
 
 I’d like to express my heartfelt thanks to everyone who made this notetype possible. First, a huge thank you to [Donkuri](https://github.com/donkuri/) for agreeing to collaborate with me on this project. I’ve learned so much thanks to you, and the notetype has improved far more than it ever could have without your help—thank you, truly, from the bottom of my heart.
 
