@@ -63,15 +63,17 @@ To use Lapis, first download the example deck from [Releases](https://github.com
 | FreqSort           | `{frequency-harmonic-rank}`                        |
 | MiscInfo           |                                                    |
 
+In `MainDefinition`, what you get will depend on the version of JMdict or Jitendex you have. If you decide you do not want to use any bilingual dictionary, simply use your main monolingual dictionary there.
+
 ## FAQ
+
+### What's all this Anki, notetype and mining stuff?
+
+Please read the [guide](https://donkuri.github.io/learn-japanese/guide/). For mining, see the [mining setups](https://donkuri.github.io/learn-japanese/mining/).
 
 ### How do I setup AJT Japanese to work with Lapis?
 
 Please refer to [this](docs/anki_setup.md)
-
-### What's Anki? What's mining? How do I mine with Lapis?
-
-Please read the [guide](https://donkuri.github.io/learn-japanese/guide/). For mining, see the [mining setups](https://donkuri.github.io/learn-japanese/mining/).
 
 ### How do I use different card types?
 
@@ -83,7 +85,7 @@ The `is...Card` fields let you select the kind of card you want to use. Without 
 | isClickCard           | Makes the word in the front of the card clickable to get the sentence |
 | isSentenceCard        | The full sentence appears in the front instead of only the word       |
 
-### What is the purpose of the three different fields for definitions?
+### Why three different fields for definitions?
 
 This is partly inspired by JPMN and its method of organizing dictionaries. There are three main fields:
 
