@@ -99,7 +99,7 @@ Open an issue and tell us about it on the [issue tracker](https://github.com/don
 
 ### There's a weird 'yomitan' tag at the bottom of my card, what does this mean?
 
-No worries! This is an easy fix. Just make sure that `Card tags` in your Yomitan settings is empty, as it is usually filled with `yomitan` by default, which causes this issue. The notetype displays all tags on the note at the bottom of the card, which can be useful for marking the source of the card. For example, the card in the example deck has the tag アニメ:小市民シリーズ at the bottom, indicating [the source](https://en.wikipedia.org/wiki/Sh%C5%8Dshimin_Series). **These tags aren’t added automatically, you will need to apply them manually if you want them. If you don't apply any tag, nothing will be rendered at the bottom.** 
+No worries! This is an easy fix. Just make sure that `Card tags` in your Yomitan settings is empty, as it is usually filled with `yomitan` by default, which causes this issue. The notetype displays all tags on the note at the bottom of the card, which can be useful for marking the source of the card. For example, the card in the example deck has the tag アニメ:小市民シリーズ at the bottom, indicating [the source](https://anilist.co/anime/173295/Shoushimin-Series). **These tags aren’t added automatically, you will need to apply them manually if you want them. If you don't apply any tag, nothing will be rendered at the bottom.** 
 
 ### How do I add a note to the card?
 
