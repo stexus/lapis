@@ -146,7 +146,7 @@ To change the font family, open the `Styling` section of the card in Anki by goi
   --font-sans: sans-serif;
 ``` 
 
-You can replace these with any fonts you prefer, or leave them as is to use the default fonts your operating system uses. If you want a recommendation, we like Hiragino fonts (the default on macOS) and Noto CJK fonts. If you see Chinese ideograms instead of Japanese kanji, read [this guide](https://learnjapanese.moe/font/). 
+You can replace these with any fonts you prefer, or leave them as is to use the default fonts your operating system uses. If you want a recommendation, we like Hiragino fonts (the default on macOS) and Noto CJK fonts. If you see Chinese instead of Japanese kanji or if you are unsure about this, read [this guide](https://learnjapanese.moe/font/). 
 
 ### I have a question not covered in the FAQ!
 
