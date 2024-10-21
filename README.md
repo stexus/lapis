@@ -23,8 +23,8 @@ Lapis was co-created by [Ruri](https://github.com/bewizible) and [kuri](https://
 2. The heavy amount of JavaScript on the card caused noticeable lag on mobile devices.
 3. Its dependency on handlebars meant it wasn’t compatible with tools that don’t support Yomitan or handlebars directly, like [JL](https://github.com/rampaa/JL).
 4. While uncommon, the use of custom handlebars and CSS to format definitions meant it sometimes would break dictionary formatting.
-6. The source code was auto-generated, making it a real challenge for both developers and non-developers alike to read and customize.
-7. The original developer of the note sadly went MIA in the summer of 2023, leaving Arbyste alone to understand the codebase and fix potential issues. While Arbyste has done outstanding work, no further development is planned except for bug fixing.
+6. The source code was auto-generated, making it a real challenge for both developers and non-developers alike to read and customize. This coupled with the complexity of the note meant it was very hard for people to contribute.
+7. The original developer of the note sadly went MIA in the summer of 2023, leaving arbyste alone to understand the codebase and fix potential issues. While arbyste has done outstanding work, no further development is planned except for bug fixing.
 
 At the same time, another great notetype caught our eyes, [rudnam](https://github.com/rudnam)'s excellent [JP-study](https://github.com/rudnam/JP-study). **Lapis was made to take the best of both worlds and avoid the issues mentioned above**. Ruri focused on the technical side of the project, writing the code and building the note, while kuri helped design the note, gave feedback and led the project. **We welcome new contributors!**
 
