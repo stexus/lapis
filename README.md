@@ -77,7 +77,7 @@ Please refer to [this](docs/anki_setup.md).
 
 ### How do I use different card types?
 
-The `is...Card` fields let you select the kind of card you want to use. Without anything, you get plain old vocab cards. Here are the possible options:
+The `is...Card` fields let you select the kind of card you want to use by placing 'x' (or anything really) in one of the fields. Without anything, you get plain old vocab cards. Please only use one selector to avoid bugs. Here are all the possible options:
 
 | Field selected        | Effect                                                                |
 | --------------------- | --------------------------------------------------------------------- |
