@@ -17,7 +17,7 @@ An advanced yet lightweight [Anki](https://apps.ankiweb.net/) notetype, thoughtf
 
 ## Why was Lapis created?
 
-Lapis was co-created by [ruri](https://github.com/bewizible) and [kuri](https://github.com/donkuri/) to provide an alternative to the Anki notetype both were using at the time, [aquafina](https://github.com/Aquafina-water-bottle) and later [arbyste's jp-mining-note](https://arbyste.github.io/jp-mining-note-prerelease/) (abbreviated JPMN henceforth). While this note is fantastic and was a major inspiration for Lapis, we had the following issues with it:
+Lapis was co-created by [Ruri](https://github.com/bewizible) and [kuri](https://github.com/donkuri/) to provide an alternative to the Anki notetype both were using at the time, [Aquafina](https://github.com/Aquafina-water-bottle) and later [arbyste](https://github.com/arbyste/)'s [jp-mining-note](https://arbyste.github.io/jp-mining-note-prerelease/) (abbreviated JPMN henceforth). While this note is fantastic and was a major inspiration for Lapis, we had the following issues with it:
 
 1. The note relied on custom handlebars, many of which are now directly implemented in Yomitan.
 2. The heavy amount of JavaScript on the card caused noticeable lag on mobile devices.
