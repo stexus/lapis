@@ -73,7 +73,7 @@ Please read the [guide](https://donkuri.github.io/learn-japanese/guide/). For mi
 
 ### How do I setup AJT Japanese to work with Lapis?
 
-Please refer to [this](docs/anki_setup.md)
+Please refer to [this](docs/anki_setup.md).
 
 ### How do I use different card types?
 
