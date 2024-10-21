@@ -27,9 +27,7 @@ Lapis was co-created by [Ruri](https://github.com/bewizible) and [kuri](https://
 7. The original developer of the note sadly went MIA in the summer of 2023, leaving arbyste alone to understand the codebase and fix potential issues. While arbyste has done outstanding work, no further development is planned except for bug fixing.
 
 At the same time, another great notetype caught our eyes, [rudnam](https://github.com/rudnam)'s excellent [JP-study](https://github.com/rudnam/JP-study). **Lapis was made to take the best of both worlds and avoid the issues mentioned above**. Ruri focused on the technical side of the project, writing the code and building the note, while kuri helped design the note, gave feedback and led the project. 
-<div align="center">
-  <b>We welcome new contributors!</b>
-</div>
+**We warmly welcome new contributors!**
 
 
 ## Key features
