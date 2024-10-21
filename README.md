@@ -181,7 +181,7 @@ I would also like to dedicate this project to Austin, I hope you are well my fri
 
 #### Ruri
 
-I’d like to express my heartfelt thanks to everyone who made this notetype possible. First, a huge thank you to [Donkuri](https://github.com/donkuri/) for agreeing to collaborate with me on this project. I’ve learned so much thanks to you, and the notetype has improved far more than it ever could have without your help—thank you, truly, from the bottom of my heart.
+I’d like to express my heartfelt thanks to everyone who made this notetype possible. First, a huge thank you to [kuri](https://github.com/donkuri/) for agreeing to collaborate with me on this project. I’ve learned so much thanks to you, and the notetype has improved far more than it ever could have without your help—thank you, truly, from the bottom of my heart.
 
 Next, I’d like to thank [Rudnam](https://github.com/rudnam/), whose code laid the foundation for this project. Your clear, functional code made everything so much easier, and your entire logic code (with some modifications) is showcased in Lapis!
 
