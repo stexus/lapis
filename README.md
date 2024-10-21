@@ -97,7 +97,7 @@ This is partly inspired by JPMN and its method of organizing dictionaries. There
 
 Open an issue and tell us about it on the [issue tracker](https://github.com/donkuri/lapis/issues), we will be more than happy to help you!
 
-### There's a weird `yomitan` tag at the bottom of my card, what does this mean?
+### There's a weird 'yomitan' tag at the bottom of my card, what does this mean?
 
 No worries! This is an easy fix. Just make sure that `Card tags` in your Yomitan settings is empty, as it is usually filled with `yomitan` by default, which causes this issue. The notetype displays all tags on the note at the bottom of the card, which can be useful for marking the source of the card. For example, the card in the example deck has the tag アニメ:小市民シリーズ at the bottom, indicating [the source](https://en.wikipedia.org/wiki/Sh%C5%8Dshimin_Series). **These tags aren’t added automatically, you will need to apply them manually if you want them. If you don't apply any tag, nothing will be rendered at the bottom.** 
 
@@ -105,7 +105,7 @@ No worries! This is an easy fix. Just make sure that `Card tags` in your Yomitan
 
 You can use the `MiscInfo` field to add any extra information you'd like. It will then appear at the bottom of the back of the card.
 
-### What is `{frequency-harmonic-rank}` and why is it used in FreqSort?
+### What is '{frequency-harmonic-rank}' and why is it used in FreqSort?
 
 For each card, `{frequency-harmonic-rank}` computes the [harmonic mean](https://en.wikipedia.org/wiki/Harmonic_mean) of all the frequencies on that card. It is often used when working with ratios and it approaches what the word's *true frequency* looks like.
 
