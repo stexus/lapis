@@ -177,7 +177,7 @@ This project could never have happened without the following people:
 #### kuri
 
 I would like to thank everyone that has helped us here. Some have their names above because they have been major contributors, others simply encouraged us and told us what they would like to see in a new notetype. You know who you are!
-I would also like to dedicate this project to Austin, I hope you are well my friend, thank you for your help, without you my work in the Japanese learning community would have never been a reality.
+I would also like to dedicate this project to Austin. I hope you are well my friend. Thank you for your help, without you my work in the Japanese learning community would have never been a reality.
 
 #### Ruri
 
