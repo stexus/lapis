@@ -75,9 +75,9 @@ Please read the [guide](https://donkuri.github.io/learn-japanese/guide/). For mi
 
 Please refer to [this](docs/anki_setup.md).
 
-### How do I switch my older cards/JPMN to Lapis?
+### How do I switch from JPMN to Lapis?
 
-Please refer to [this](docs/updating_cards.md).
+Please refer to [this](docs/updating_cards.md). We do not provide other updating guides for every other notes, but this might give you enough information to figure it out on your own.
 
 ### How do I use different card types?
 
