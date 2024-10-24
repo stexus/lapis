@@ -2,10 +2,10 @@
 
 > **Note:** This guide only covers how to set up AJT Japanese for use with Lapis.
 
-AJT Japanese is an Anki add-on, and the version maintained by arbyste is recommended. Check [here](#why-do-you-use-the-arbyste-version) as to why. You can download it [here](https://ankiweb.net/shared/info/200813220). After installing the add-on, restart Anki to see **AJT** in the top bar.
+AJT Japanese is an Anki add-on, and the version maintained by arbyste is recommended. Check [here](#why-do-you-use-the-arbyste-version) to find out why. You can download it [here](https://ankiweb.net/shared/info/200813220). After installing the add-on, restart Anki to see **AJT** in the top bar.
 
 1. **Setting up automatic furigana for the sentence field**  
-   Click on `AJT` in the top bar, then select `Furigana`. Match your settings to the following:
+   Click on `AJT` in the top bar, then select `Furigana`. Make sure your settings match the following:
 
    <div align="center">
      <img src="../assets/furiganaAJT.png">
@@ -16,7 +16,7 @@ AJT Japanese is an Anki add-on, and the version maintained by arbyste is recomme
 
    *Optional:* If you use tools like [asbplayer](https://killergerbah.github.io/asbplayer/) or [mpvacious](https://github.com/Ajatt-Tools/mpvacious), follow the next step.
 
-2. **Handling furigana after mining with tools like asbplayer/mpvacious**  
+2. **Handling furigana after mining with tools like asbplayer or mpvacious**  
    If you update the `Sentence` field after mining with these tools, the settings above won’t automatically regenerate the `SentenceFurigana` field, which can cause rendering issues. To avoid this, bulk-regenerate furigana after each mining session. First, create an additional profile in AJT:
 
    3. Click `AJT`, then `Profiles` and then `Add`, then match your settings to the following:
@@ -30,11 +30,11 @@ AJT Japanese is an Anki add-on, and the version maintained by arbyste is recomme
 
    *Tip:* To easily find cards mined today, either move them to a separate deck before generating furigana or use the search term `added:1` in the search bar.
 
-### Why do you use the arbyste version?
+### Why do you use arbyste's version?
 
 There are two main reasons:
 
-1. **Stability** – The arbyste version avoids any breaking changes introduced by the AJT mainstream. According to the JPMN fork description:
+1. **Stability** – Arbyste's version avoids any breaking changes introduced by the AJT mainstream. According to the JPMN fork description:
 
    > This is a fork of AJT Japanese, intended to provide a stable version of the add-on for anyone using the JP Mining Note Japanese note type.
 
