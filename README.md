@@ -75,6 +75,10 @@ Please read the [guide](https://donkuri.github.io/learn-japanese/guide/). For mi
 
 Please refer to [this](docs/anki_setup.md).
 
+### How do I switch my older cards/JPMN to Lapis?
+
+Please refer to [this](docs/updating_cards.md).
+
 ### How do I use different card types?
 
 The `is...Card` fields let you select the kind of card you want to use by placing 'x' (or anything really) in one of the fields. Without anything, you get plain old vocab cards. Please only use one selector to avoid bugs. Here are all the possible options:
