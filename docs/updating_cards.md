@@ -8,4 +8,4 @@ To switch your cards from JPMN to Lapis, open `Browse`, select all the JPMN card
  <img src="../assets/switchCards.png">
 </div>
 
-You can experiment with other cards as well. The dictionary and pitch accent fields may need adjustments based on your preferences and mining habits, but please proceed at your own risk or discretion.
+You can experiment with other cards as well. The dictionary and pitch accent fields may need adjustments based on your preferences and mining habits, but please proceed at your own risk.
