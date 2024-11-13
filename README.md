@@ -48,7 +48,7 @@ To use Lapis, first download the example deck from [Releases](https://github.com
 | ExpressionReading  | `{reading}`                                        |
 | ExpressionAudio    | `{audio}`                                          |
 | SelectionText      | `{popup-selection-text}`                           |
-| MainDefinition     | Something like `{single-glossary-jmdict/jitendex}` |
+| MainDefinition     | Something like `{single-glossary-jmdict/jitendex}`. Find this by clicking the down arrow next to this field, and finding a dictionary in a similar format. |
 | Sentence           | `{cloze-prefix}<b>{cloze-body}</b>{cloze-suffix}`  |
 | SentenceFurigana   |                                                    |
 | SentenceAudio      |                                                    |
