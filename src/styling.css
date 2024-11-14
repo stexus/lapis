@@ -36,8 +36,8 @@
   --mobile-info-font-size: 16px;
 
   /* Miscellaneous */
-  --font-serif: serif;
-  --font-sans: sans-serif;
+  --font-serif: serif, "KaiTi Regular";
+  --font-sans: sans-serif, "Songti Regular";
   --light-mode-image-brightness: 85%;
   --dark-mode-image-brightness: 80%;
   --light-mode-tooltip-hover-color: rgb(256, 256, 256, 0.9);

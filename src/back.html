@@ -32,18 +32,6 @@
 
         <!-- Reading + Pitch Accent -->
         <div class="info">
-        <div class="pitch">
-          <div style="margin-right: -15px; display: inline">
-            {{#ExpressionFurigana}}{{kana:ExpressionFurigana}}{{/ExpressionFurigana}}
-            {{^ExpressionFurigana}}{{ExpressionReading}}{{/ExpressionFurigana}}
-          </div>
-        </div>
-
-        <!-- Pitch Accent -->
-        {{#PitchPosition}}
-        <span id="pitch-tags" class="tags"> {{PitchPosition}} </span>
-        {{/PitchPosition}}
-        <br/>
         <div class="audio-buttons">{{ExpressionAudio}} {{SentenceAudio}}</div>
       </div>
       </div>
@@ -488,8 +476,8 @@
   // Initialize all functions!!!
   function initialize() {
     tweakHTML();
-    paintTargetWord();
-    constructPitch();
+    // paintTargetWord();
+    // constructPitch();
     showCorrectDef();
     setUpDefToggle();
     clickImage();

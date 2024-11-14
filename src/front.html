@@ -4,12 +4,12 @@
 <main>
   <!--------- front-vocab card ---------->
   {{^IsSentenceCard}} {{^IsHintCard}}  {{^IsClickCard}}
-    <div lang="ja" class="front-vocab">{{Expression}}</div>
+    <div lang="zh-Hans" class="front-vocab">{{Expression}}</div>
   {{/IsClickCard}}  {{/IsHintCard}} {{/IsSentenceCard}}
 
   <!------- Sentence card --------->
   {{#IsSentenceCard}}
-    <div lang="ja" class="front-sentence">
+    <div lang="zh-Hans" class="front-sentence">
       {{#SentenceFurigana}} {{kanji:SentenceFurigana}} {{/SentenceFurigana}}
       {{^SentenceFurigana}} {{kanji:Sentence}} {{/SentenceFurigana}}
     </div>
@@ -17,7 +17,7 @@
 
   <!--------- Hint card ----------->
   {{#IsHintCard}}
-    <div lang="ja" class="front-vocab">{{Expression}}</div>
+    <div lang="zh-Hans" class="front-vocab">{{Expression}}</div>
     <div id="hint">
       {{#SentenceFurigana}} {{kanji:SentenceFurigana}} {{/SentenceFurigana}}
       {{^SentenceFurigana}} {{kanji:Sentence}} {{/SentenceFurigana}}
@@ -27,7 +27,7 @@
   <!-------- Click card ----------->
   {{#IsClickCard}}
     <div id="click">
-      <div lang="ja" class="front-vocab">{{Expression}}</div>
+      <div lang="zh-Hans" class="front-vocab">{{Expression}}</div>
     </div>
   {{/IsClickCard}}
 
@@ -46,7 +46,7 @@
 
     // This is what it is going to click to
     const clickedContent = `
-      <div lang="ja" class="front-sentence">
+      <div lang="zh-Hans" class="front-sentence">
         {{#SentenceFurigana}} {{kanji:SentenceFurigana}} {{/SentenceFurigana}}
         {{^SentenceFurigana}} {{kanji:Sentence}} {{/SentenceFurigana}}
       </div>
