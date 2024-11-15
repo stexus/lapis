@@ -367,7 +367,9 @@
     const leftEdge = document.createElement("div");
     const rightEdge = document.createElement("div");
     leftEdge.classList.add("left-edge");
+    leftEdge.classList.add("tappable");
     rightEdge.classList.add("right-edge");
+    rightEdge.classList.add("tappable");
     mainDefContainer.appendChild(leftEdge);
     mainDefContainer.appendChild(rightEdge);
 
