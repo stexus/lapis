@@ -36,8 +36,8 @@
   --mobile-info-font-size: 16px;
 
   /* Miscellaneous */
-  --font-serif: "A-OTF Ryumin Pr6N", serif;
-  --font-sans: "Hiragino Sans Rd Pr6N", sans-serif;
+  --font-serif: serif;
+  --font-sans: sans-serif;
   --light-mode-image-brightness: 85%;
   --dark-mode-image-brightness: 80%;
   --light-mode-tooltip-hover-color: rgb(256, 256, 256, 0.9);
@@ -50,6 +50,12 @@
 .card {
   background-color: var(--bg-color) !important;
   color: var(--fg-color) !important;
+}
+
+/* Define --canvas for .nightMode (iphone, ipad) as mentioned in https://github.com/donkuri/lapis/issues/3#issuecomment-2453049969 */
+.iphone .nightMode,
+.ipad .nightMode {
+  --canvas: #2c2c2c;
 }
 
 .card.nightMode {
@@ -400,7 +406,7 @@ header {
 }
 
 
-/* Hide NFSW Images */
+/* Hide NFSW Images -- make sure you use the tag `NSFW` EXACTLY */
 .NSFW img {
   filter: blur(30px);
   transition: filter 0.2s;
