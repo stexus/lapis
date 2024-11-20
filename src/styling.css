@@ -4,11 +4,16 @@
   --light-mode-fg-color: #333333;
 
   /* Tone colors */
-  --color-tone-1: #ff8080;
-  --color-tone-2: #80ff81;
-  --color-tone-3: #8080ff;
-  --color-tone-4: #df80ff;
-  --color-tone-5: #7d8590;
+  --dark-mode-color-tone-1: #ff8080;
+  --dark-mode-color-tone-2: #80ff81;
+  --dark-mode-color-tone-3: #8080ff;
+  --dark-mode-color-tone-4: #df80ff;
+  --dark-mode-color-tone-5: #7d8590;
+  --light-mode-color-tone-1: #e30000;
+  --light-mode-color-tone-2: #02b31d;
+  --light-mode-color-tone-3: #1510f0;
+  --light-mode-color-tone-4: #8901bf;
+  --light-mode-color-tone-5: #777777;
 
   /* PC Font sizes */
   --pc-main-font-size: 16px;
@@ -56,11 +61,11 @@
 .card.nightMode {
   --bg-color: var(--canvas);
   --fg-color: var(--fg-color);
-  --heiban: var(--dark-mode-heiban, initial);
-  --atamadaka: var(--dark-mode-atamadaka, initial);
-  --nakadaka: var(--dark-mode-nakadaka, initial);
-  --odaka: var(--dark-mode-odaka, initial);
-  --kifuku: var(--dark-mode-kifuku, initial);
+  --color-tone-1: var(--dark-mode-color-tone-1, initial);
+  --color-tone-2: var(--dark-mode-color-tone-2, initial);
+  --color-tone-3: var(--dark-mode-color-tone-3, initial);
+  --color-tone-4: var(--dark-mode-color-tone-4, initial);
+  --color-tone-5: var(--dark-mode-color-tone-5, initial);
 
   --bg-elevated: rgba(0, 0, 0, 0.12);
   --bg-inset: rgba(255, 255, 255, 0.03);
@@ -74,11 +79,12 @@
 .card:not(.nightMode) {
   --bg-color: var(--light-mode-bg-color);
   --fg-color: var(--light-mode-fg-color);
-  --heiban: var(--light-mode-heiban, initial);
-  --atamadaka: var(--light-mode-atamadaka, initial);
-  --nakadaka: var(--light-mode-nakadaka, initial);
-  --odaka: var(--light-mode-odaka, initial);
-  --kifuku: var(--light-mode-kifuku, initial);
+  --color-tone-1: var(--dark-mode-color-tone-1, initial);
+  --color-tone-2: var(--dark-mode-color-tone-2, initial);
+  --color-tone-3: var(--dark-mode-color-tone-3, initial);
+  --color-tone-4: var(--dark-mode-color-tone-4, initial);
+  --color-tone-5: var(--dark-mode-color-tone-5, initial);
+
 
   --bg-elevated: rgba(0, 0, 0, 0.03);
   --bg-inset: rgba(0, 0, 0, 0.06);
