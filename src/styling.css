@@ -26,14 +26,14 @@
   --pc-info-font-size: 23px;
 
   /* Mobile font sizes */
-  --mobile-main-font-size: 16px;
-  --mobile-main-def-size: 16px;
+  --mobile-main-font-size: 32px;
+  --mobile-main-def-size: 28px;
   --mobile-vocab-font-size: 70px;
   --mobile-back-vocab-font-size: 32px;
   --mobile-sentence-font-size: 38px;
-  --mobile-back-sentence-font-size: 24px;
+  --mobile-back-sentence-font-size: 28px;
   --mobile-hint-font-size: 24px;
-  --mobile-info-font-size: 16px;
+  --mobile-info-font-size: 24px;
 
   /* Miscellaneous */
   --font-serif: serif, "KaiTi Regular";
