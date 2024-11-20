@@ -3,17 +3,12 @@
   --light-mode-bg-color: #fffaf0;
   --light-mode-fg-color: #333333;
 
-  /* Pitch colors */
-  --dark-mode-heiban: #39bae6;
-  --dark-mode-atamadaka: #ec464f;
-  --dark-mode-nakadaka: #ff8f40;
-  --dark-mode-odaka: #6cbf43;
-  --dark-mode-kifuku: #af85f4;
-  --light-mode-heiban: #1aa0ce;
-  --light-mode-atamadaka: #e92a35;
-  --light-mode-nakadaka: #ff6b03;
-  --light-mode-odaka: #61ad3b;
-  --light-mode-kifuku: #7e53c4;
+  /* Tone colors */
+  --color-tone-1: #ff8080;
+  --color-tone-2: #80ff81;
+  --color-tone-3: #8080ff;
+  --color-tone-4: #df80ff;
+  --color-tone-5: #7d8590;
 
   /* PC Font sizes */
   --pc-main-font-size: 16px;
