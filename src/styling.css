@@ -573,64 +573,20 @@ summary {
   width: fit-content;
   margin: 0px auto;
 }
-
-/* Pitch graphs css */
-.pitch-low {
-  position: relative;
+.tone1 {
+  color: var(--color-tone-1);
 }
-.pitch-high {
-  position: relative;
+.tone2 {
+  color: var(--color-tone-2);
 }
-.pitch-high > .pitch-line {
-  display: block;
-  position: absolute;
-  top: -0.001em;
-  left: 0;
-  right: 0;
-  height: 0;
-  border-top-width: 0.1em;
-  border-top-style: solid;
+.tone3 {
+  color: var(--color-tone-3);
 }
-.mobile .pitch-high > .pitch-line {
-  top: -0.1em;
+.tone4 {
+  color: var(--color-tone-4);
 }
-.pitch-to-drop {
-  position: relative;
-  padding-right: 0.1em;
-  margin-right: 0.1em;
-}
-.pitch-to-drop > .pitch-line {
-  display: block;
-  position: absolute;
-  top: -0.001em;
-  left: 0;
-  right: 0;
-  border-top-width: 0.1em;
-  border-top-style: solid;
-  right: -0.1em;
-  height: 0.4em;
-  border-right-width: 0.1em;
-  border-right-style: solid;
-}
-.mobile .pitch-to-drop > .pitch-line {
-  top: -0.1em;
-}
-
-/* Pitch coloring */
-.heiban {
-  color: var(--heiban);
-}
-.atamadaka {
-  color: var(--atamadaka);
-}
-.nakadaka {
-  color: var(--nakadaka);
-}
-.odaka {
-  color: var(--odaka);
-}
-.kifuku {
-  color: var(--kifuku);
+.tone5 {
+  color: var(--color-tone-5);
 }
 
 /* Definition toggle css */
